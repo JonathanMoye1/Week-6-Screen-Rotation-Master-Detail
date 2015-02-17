@@ -7,6 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0DFAA42F1A92EC63002B35E7 /* Blue Man Group.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0DFAA42C1A92EC63002B35E7 /* Blue Man Group.jpg */; };
+		0DFAA4301A92EC63002B35E7 /* Johnny Cash.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0DFAA42D1A92EC63002B35E7 /* Johnny Cash.jpg */; };
+		0DFAA4311A92EC63002B35E7 /* Oakridge Boys.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0DFAA42E1A92EC63002B35E7 /* Oakridge Boys.jpg */; };
 		368766991A8F97200026EE69 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 368766981A8F97200026EE69 /* AppDelegate.swift */; };
 		3687669B1A8F97200026EE69 /* MasterViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3687669A1A8F97200026EE69 /* MasterViewController.swift */; };
 		3687669D1A8F97200026EE69 /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3687669C1A8F97200026EE69 /* DetailViewController.swift */; };
@@ -42,6 +45,9 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		0DFAA42C1A92EC63002B35E7 /* Blue Man Group.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Blue Man Group.jpg"; sourceTree = "<group>"; };
+		0DFAA42D1A92EC63002B35E7 /* Johnny Cash.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Johnny Cash.jpg"; sourceTree = "<group>"; };
+		0DFAA42E1A92EC63002B35E7 /* Oakridge Boys.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Oakridge Boys.jpg"; sourceTree = "<group>"; };
 		368766931A8F97200026EE69 /* MyFavBands.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MyFavBands.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		368766971A8F97200026EE69 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		368766981A8F97200026EE69 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -150,6 +156,9 @@
 		368766BA1A8FA7C50026EE69 /* images */ = {
 			isa = PBXGroup;
 			children = (
+				0DFAA42C1A92EC63002B35E7 /* Blue Man Group.jpg */,
+				0DFAA42D1A92EC63002B35E7 /* Johnny Cash.jpg */,
+				0DFAA42E1A92EC63002B35E7 /* Oakridge Boys.jpg */,
 				368766CB1A8FB4410026EE69 /* Main.png */,
 				368766BB1A8FA7E70026EE69 /* 38 Special.jpg */,
 				368766BC1A8FA7E70026EE69 /* Band Perry.jpg */,
@@ -266,14 +275,17 @@
 				368766C31A8FA7E70026EE69 /* 38 Special.jpg in Resources */,
 				36BC61CF1A90A742001F908B /* logo292.png in Resources */,
 				368766A51A8F97200026EE69 /* LaunchScreen.xib in Resources */,
+				0DFAA42F1A92EC63002B35E7 /* Blue Man Group.jpg in Resources */,
 				368766C51A8FA7E70026EE69 /* Eagles.jpg in Resources */,
 				368766C81A8FA7E70026EE69 /* Leonard Skynard.jpg in Resources */,
 				368766CA1A8FA7E70026EE69 /* Miranda Lambert.jpg in Resources */,
+				0DFAA4311A92EC63002B35E7 /* Oakridge Boys.jpg in Resources */,
 				368766C71A8FA7E70026EE69 /* Journey.jpg in Resources */,
 				36BC61CE1A90A742001F908B /* logo291.png in Resources */,
 				368766A21A8F97200026EE69 /* Images.xcassets in Resources */,
 				36BC61D01A90A742001F908B /* logo401.png in Resources */,
 				36BC61D71A90A953001F908B /* logo152.png in Resources */,
+				0DFAA4301A92EC63002B35E7 /* Johnny Cash.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
